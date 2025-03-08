@@ -26,6 +26,7 @@ aside: false
 - [Español / Spanish](https://vue3-spanish-docs.netlify.app/) [[source](https://github.com/icarusgk/vuejs-spanish-docs)]
 - [Deutsch / German](https://de.vuejs.org/) [[source](https://github.com/vuejs-translations/docs-de)]
 - [Polski / Polish](https://pl.vuejs.org/) [[source](https://github.com/vuejs-translations/docs-pl)]
+- [Indonesia / Indonesia](https://pl.vuejs.org/) [[source](https://github.com/vuejs-translations/docs-id)]
 
 ## Starting a new Translation {#starting-a-new-translation}
 
